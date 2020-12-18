@@ -1,2 +1,8 @@
-# node-docker
-Node docker image
+# Node docker image
+
+## Deps
+
+- python3
+- pip
+- awsebcli
+- awscli
