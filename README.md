@@ -1,5 +1,7 @@
 # Node docker image
 
+`10-browsers`
+
 ## Deps
 
 - python3
